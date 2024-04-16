@@ -1,0 +1,15 @@
+/Users/grayson/Projects/Implementation/Implementation/bin/Debug/net7.0/Implementation
+/Users/grayson/Projects/Implementation/Implementation/bin/Debug/net7.0/Implementation.deps.json
+/Users/grayson/Projects/Implementation/Implementation/bin/Debug/net7.0/Implementation.runtimeconfig.json
+/Users/grayson/Projects/Implementation/Implementation/bin/Debug/net7.0/Implementation.dll
+/Users/grayson/Projects/Implementation/Implementation/bin/Debug/net7.0/Implementation.pdb
+/Users/grayson/Projects/Implementation/Implementation/obj/Debug/net7.0/Implementation.csproj.AssemblyReference.cache
+/Users/grayson/Projects/Implementation/Implementation/obj/Debug/net7.0/Implementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grayson/Projects/Implementation/Implementation/obj/Debug/net7.0/Implementation.AssemblyInfoInputs.cache
+/Users/grayson/Projects/Implementation/Implementation/obj/Debug/net7.0/Implementation.AssemblyInfo.cs
+/Users/grayson/Projects/Implementation/Implementation/obj/Debug/net7.0/Implementation.csproj.CoreCompileInputs.cache
+/Users/grayson/Projects/Implementation/Implementation/obj/Debug/net7.0/Implementation.dll
+/Users/grayson/Projects/Implementation/Implementation/obj/Debug/net7.0/refint/Implementation.dll
+/Users/grayson/Projects/Implementation/Implementation/obj/Debug/net7.0/Implementation.pdb
+/Users/grayson/Projects/Implementation/Implementation/obj/Debug/net7.0/Implementation.genruntimeconfig.cache
+/Users/grayson/Projects/Implementation/Implementation/obj/Debug/net7.0/ref/Implementation.dll
